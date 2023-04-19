@@ -5,7 +5,7 @@ import requests
 import json
 from termcolor import colored
 
-apiKey = ''     #insert your API key here
+apiKey = '30cd83e3-8eff-4ae4-9825-3e872a9de149'     #insert your API key here
 commands = []   #write into the txt file, not here
 domains = []    #write into the txt file, not here
 selector = ""   #insert the DKIM selector here
